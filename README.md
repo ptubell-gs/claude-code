@@ -42,6 +42,8 @@ NOTE: If installing with NPM, you also need to install [Node.js 18+](https://nod
 
 This repository includes several Claude Code plugins that extend functionality with custom commands and agents. See the [plugins directory](./plugins/README.md) for detailed documentation on available plugins.
 
+**Want to understand how Claude Code intercepts and monitors actions?** See [How Interception Works](./docs/HOW_INTERCEPTION_WORKS.md) for a comprehensive technical explanation of the hook system.
+
 ## Reporting Bugs
 
 We welcome your feedback. Use the `/bug` command to report issues directly within Claude Code, or file a [GitHub issue](https://github.com/anthropics/claude-code/issues).
